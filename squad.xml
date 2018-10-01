@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="HAWGS">
+<squad nick="HOG">
 	<name>Wild Hogs</name>
 	<email></email>
 	<web>#roastedhogs</web>
